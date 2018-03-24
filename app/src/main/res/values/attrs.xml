@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BlockHolder">
+        <attr name="nx" format="integer" />
+        <attr name="ny" format="integer" />
+        <attr name="blockSize" format="integer"/>
+    </declare-styleable>
+</resources>
